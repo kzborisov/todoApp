@@ -26,7 +26,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
 
-    'todoApp.todo',
     'todoApp.api',
 ]
 
